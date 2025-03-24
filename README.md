@@ -1,6 +1,6 @@
 # Cool Roofs Detection
 
-This project uses machine learning to detect cool or warm rooftops in New York City using orthoimagery and building footprints. If you want to follow along with my NYC OpenData Week 2025 Demonstration download the demo folder from this repository and open the demo.ipynb file. Please ensure you have Jupyter Notebook and are working in a Python 3 environment. Then pip-install the following list of packages required to be installed for this project, they are the only packages I needed to run the demo code:
+This project uses machine learning to detect rooftops and their reflectivity (cool or warm) in New York City. It uses building footprints from NYC OpenData, orthoimagery from Discover GIS Data NY, and an image segmentation model from Ultralytics. If you want to follow along with my NYC OpenData Week 2025 Demonstration download the demo folder from this repository and open the demo.ipynb file. Please ensure you have Jupyter Notebook and are working in a Python 3 environment. Then pip-install the following list of packages required to be installed for this project, they are the only packages I needed to run the demo code:
 
 rasterio
 pyshp
