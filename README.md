@@ -1,6 +1,6 @@
-# cool_roofs_detection
+# Cool Roofs Detection
 
-The following is the list of packages required to be installed for this project, they are the only packages I needed to pip-install in order to run the demo code.  If you want to follow along with my Open Data Week 2025 Demonstration, please make sure you have Jupyter Notebook and are working in a Python 3 environment. Then pip-install the following:
+This project uses machine learning to detect cool or warm rooftops in New York City using orthoimagery and building footprints. If you want to follow along with my NYC OpenData Week 2025 Demonstration download the demo folder from this repository and open the demo.ipynb file. Please ensure you have Jupyter Notebook and are working in a Python 3 environment. Then pip-install the following list of packages required to be installed for this project, they are the only packages I needed to run the demo code:
 
 rasterio
 pyshp
